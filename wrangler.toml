@@ -1,0 +1,10 @@
+name = "tikshort"
+main = "index.js"
+compatibility_date = "2026-01-01"
+
+[vars]
+# Si querés alguna variable de entorno global va acá
+
+[[kv_namespaces]]
+binding = "ENLACES_KV"
+id = "TU_KV_ID_AQUI" # (Opcional si ya lo vinculaste desde el panel de Cloudflare)
